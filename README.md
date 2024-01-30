@@ -1,6 +1,9 @@
 # Movie-prediction-using-Gaussian-Naive-Bayes
 Movie success rate prediction hit or flop using gaussian Naive Bayes
 
+![alt text](https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr03/2013/6/12/11/enhanced-buzz-orig-21893-1371052342-13.jpg?downsize=800:*&output-format=auto&output-quality=auto)
+
+
 The film industry, characterized by intense competition, is inherently uncertain, making predicting a movie's success before its release a valuable endeavor for filmmakers, producers, and investors. This project seeks to develop a predictive model for movie success by leveraging the Gaussian Naive Bayes algorithm.
 
 The Gaussian Naive Bayes algorithm is chosen for its effectiveness as a probabilistic classifier, assuming that features follow a normal distribution. In the context of predicting movie success, a diverse set of features is considered, encompassing elements such as genre, cast, budget, marketing efforts, and critical reviews. The model's foundation is laid upon a training dataset rich in historical information on movies, spanning both successful and unsuccessful releases.
